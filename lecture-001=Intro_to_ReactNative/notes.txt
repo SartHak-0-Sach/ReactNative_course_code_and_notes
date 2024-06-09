@@ -1,0 +1,6 @@
+React Native is a framework to develop IOS and Android apps and is considered one of the leading technology that is being implemented in native app development from small to big companies and firms.
+
+This course will teach you everything from basics of React too so don't worry if you can't recall your Web Development lectures of JavaScript and React!!
+
+This course is complete in itself and aims to get you a job in one of the big firms as an app developer.
+

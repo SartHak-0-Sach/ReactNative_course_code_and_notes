@@ -1,0 +1,5 @@
+This video showcased installation and setup on following steps given on this link below-
+
+https://reactnative.dev/docs/set-up-your-environment
+
+Follow all these steps and then try running the command `npx react-native run-android` after changing current directory to the project you made
